@@ -1,0 +1,1 @@
+This is an application that predicts some market fluctuations. The data used for this project is coming from Kaggle and contains records from 2018-2023.
